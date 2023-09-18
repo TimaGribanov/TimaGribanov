@@ -1,4 +1,4 @@
-### Welcome stranger to my little lab
+### Heya!
 
 I create little things with WebDev tools. Mostly HTML, CSS, JS/TS, PHP, MySQL. Moreover, I’m currently learning Java, React and Redux.
 
