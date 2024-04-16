@@ -1,6 +1,6 @@
 ### Heya!
 
-I create little things with WebDev tools. Mostly React, HTML, CSS, JS/TS, PHP, MySQL. I also use Java for my full-time job purposes.
+I create little things with WebDev tools. Mostly NextJS, React, HTML, CSS, JS/TS, PHP, MySQL. I also use Java for my full-time job purposes.
 
 My the most recent projects are a [WordPress theme for akfgfragments.com](https://github.com/TimaGribanov/akfgfragments_theme) site and a [Ajikan Database](https://github.com/TimaGribanov/ajikan-database).
 
